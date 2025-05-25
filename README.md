@@ -1,10 +1,9 @@
 # 👩🏽‍💻Madu 
 **Estudante de Engenharia de Software - UDESC**
 
-Me chamo Maria Eduarda, atualmente sou estudante de engenharia de software na udesc e bolsista do projeto de extensão ESO POP.
+Me chamo Maria Eduarda, atualmente graduanda de engenharia de software e bolsista do projeto de extensão ESO POP, que participa de atividades acadêmicas e projetos voltados à promoção da equidade de gênero nas ciências exatas e tecnológicas, na Universidade do Estado de Santa Catarina (UDESC), no Centro de Educação Superior do Alto Vale do Itajaí (CEAVI), atualmente cursando o terceiro semestre. 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddumuller&layout=compact&theme=synthwave&card_width=500)](https://github.com/maddumuller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddumuller&layout=compact&theme=synthwave&card_width=950)](https://github.com/maddumuller/github-readme-stats)
 
 
 
