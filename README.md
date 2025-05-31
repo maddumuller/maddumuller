@@ -5,6 +5,8 @@ Me chamo Maria Eduarda, atualmente graduanda de engenharia de software e bolsist
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maddumuller&layout=compact&theme=synthwave&card_width=950)](https://github.com/maddumuller/github-readme-stats)
 
-
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=synthwave">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=synthwave">
 
 
