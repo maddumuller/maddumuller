@@ -8,9 +8,9 @@ Me chamo Maria Eduarda, atualmente sou estagiária em Desenvolvimento de Softwar
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=tokyonight" alt="Profile Details" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddumuller&theme=tokyonight&card_width=200=&langs_count=20" alt="Top Languages" />
-    </td>
+   <td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddumuller&theme=tokyonight" alt="Top Langs" />
+</td>
   </tr>
 </table>
 
