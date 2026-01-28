@@ -6,10 +6,10 @@ Me chamo Maria Eduarda, atualmente sou Desenvolvedora de Software na IPM Sistema
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=tokyonight" alt="Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=nightowl" alt="Profile Details" />
     </td>
    <td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddumuller&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddumuller&theme=nightowl" alt="Top Langs" />
 </td>
   </tr>
 </table>
