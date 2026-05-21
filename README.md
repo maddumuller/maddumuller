@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="video-olho-gif.gif" width="450px" heigth= "50px"/>
+</p>
+
 # 👩🏽‍💻Madu 
 **Desenvolvedora de Software**
 
