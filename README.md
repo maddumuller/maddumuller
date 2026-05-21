@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="video-olho-gif.gif" width="450px" heigth= "50px"/>
+  <img src="gif-borda-lilas.gif" width="100%"/>
 </p>
 
 # 👩🏽‍💻Madu 
