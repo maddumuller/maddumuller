@@ -3,6 +3,8 @@
 </p>
 
 # 👩🏽‍💻Madu 
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmaddumuller&label=&icon=github&color=%23a98eda&message=&style=flat-square&tz=localtime">
+
 **Desenvolvedora de Software**
 
 Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o quinto semestre onde também sou bolsista de um projeto de ensino destinado a organização da SEMESO (Seminário de Engenharia de Software ). 
