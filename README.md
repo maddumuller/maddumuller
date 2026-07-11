@@ -5,20 +5,15 @@
 # 👩🏽‍💻Madu 
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmaddumuller&label=&icon=github&color=%23a98eda&message=&style=flat-square&tz=localtime">
 
-**Desenvolvedora de Software**
+**Desenvolvedora de Software | Estudante de Engenharia de Software**
 
-Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o quinto semestre onde também sou bolsista de um projeto de ensino destinado a organização da SEMESO (Seminário de Engenharia de Software ). 
+Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o sexto semestre onde também sou bolsista de um projeto de ensino destinado a organização do SEMESO (Seminário de Engenharia de Software). 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddumuller&theme=nightowl" alt="Profile Details" />
-    </td>
-   <td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddumuller&theme=nightowl" alt="Top Langs" />
-</td>
-  </tr>
-</table>
+
+ <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=maddumuller&bg_color=0d1117&color=b58cff&line=8b5cf6&point=e9d5ff&area=true&hide_border=true" width="95%" alt="Gráfico de contribuições"/> </div>
+
+
+<div align="center"> <img src="./ondas-roxas-madu.gif" width="100%" alt="Ondas roxas"/> <br> <i>“Transformando ideias em código e aprendizado em evolução.”</i> </div>
 
 <div align= "center">
    <b><i>Tecnologias</i></b> 
