@@ -7,13 +7,14 @@
 
 Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o sexto semestre onde também sou bolsista de um projeto de ensino destinado a organização do SEMESO (Seminário de Engenharia de Software). 
 
-<!--<div align="center">
+
+<div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maddumuller&bg_color=0d1117&color=b58cff&line=8b5cf6&point=e9d5ff&area=true&hide_border=true"
+    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=maddumuller&bg_color=0d1117&color=b58cff&line=8b5cf6&point=ec4899&area_color=9333ea&area=true&hide_border=true"
     width="95%"
     alt="Gráfico de contribuições"
   />
-</div>-->
+</div>
 
 <div align= "center">
    <b><i>Tecnologias</i></b> 
