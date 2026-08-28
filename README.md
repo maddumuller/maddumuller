@@ -1,14 +1,19 @@
-<p align="center">
-  <img src="gif-ondas.gif" width="100%" height="220px" style="object-fit: cover;" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:9333EA,100:EC4899&height=220&section=header&text=Maria%20Eduarda&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Developer%20%7C%20Software%20Engineer%20Student&descSize=18&descAlignY=52" alt="Header" width="100%" />
+</div>
 
-# 👩🏽‍💻Madu 
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmaddumuller&label=&icon=github&color=%23a98eda&message=&style=flat-square&tz=localtime">
 
-**Desenvolvedora de Software | Estudante de Engenharia de Software**
 
 Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o sexto semestre onde também sou bolsista de um projeto de ensino destinado a organização do SEMESO (Seminário de Engenharia de Software). 
 
+<!--<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maddumuller&bg_color=0d1117&color=b58cff&line=8b5cf6&point=e9d5ff&area=true&hide_border=true"
+    width="95%"
+    alt="Gráfico de contribuições"
+  />
+</div>-->
 
 <div align= "center">
    <b><i>Tecnologias</i></b> 
@@ -49,6 +54,10 @@ Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:9333EA,100:EC4899&height=80&section=footer" alt="footer" />
+</p>
 
 
 
