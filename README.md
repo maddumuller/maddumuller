@@ -5,7 +5,7 @@
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmaddumuller&label=&icon=github&color=%23a98eda&message=&style=flat-square&tz=localtime">
 
 
-Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o sexto semestre onde também sou bolsista de um projeto de ensino destinado a organização do SEMESO (Seminário de Engenharia de Software). 
+Me chamo Maria Eduarda, atualmente sou graduanda no curso Engenharia de Software pela UDESC, cursando o sexto semestre. 
 
 
 <div align="center">
